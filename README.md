@@ -1,3 +1,9 @@
+# WARNING
+
+This is a fork of: https://github.com/plumdog/django_migration_testcase/blob/master/django_migration_testcase/base.py
+
+I've only added some minor changes to make it work with Django 2+ (at least it does work for my cases). I give no guarantee that it will work for you.
+
 # django_migration_testcase
 [![Build Status](https://travis-ci.org/plumdog/django_migration_testcase.svg?branch=master)](https://travis-ci.org/plumdog/django_migration_testcase)
 
